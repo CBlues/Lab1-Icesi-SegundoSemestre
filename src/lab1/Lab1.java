@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Edgar Andres Rodriguez Florez
+ * @author Edgar Andres Rodriguez Florez_
  */
 public class Lab1 {
 
